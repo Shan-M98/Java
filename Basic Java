@@ -1,0 +1,57 @@
+// Print message to console /* is more multi-line comments */
+public class HelloYou {
+  public static void main(String[] args) {
+    System.out.printIn("Hello Shan");
+    
+  }
+}
+-----------------------------------------------
+public class HideAndSeek {
+  public static void main(String[] args) {
+    System.out.println("Let's play hide and seek.");
+    System.out.print("Three...");
+    System.out.print("Two...");
+    System.out.println("One...");
+    System.out.println("Ready or not, here I come!");
+
+
+  }
+}
+Output:
+Let's play hide and seek.
+Three...Two...One...
+Ready or not, here I come!
+-------------------------------------------------
+public class Review {
+  public static void main(String[] args) {
+    // The main method executes the tasks of the class
+    System.out.println("My first Java program from scratch!");
+  }
+    
+
+}
+---------------------------------------------------------
+Printing variables
+public class Creator {
+	public static void main(String[] args) {
+    String name = "James Gosling";
+    int yearCreated = 1995;
+    System.out.println(name);
+    System.out.println(yearCreated);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
